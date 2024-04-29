@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Igiari</string>
+    <string name="activesound">activeSound</string>
+    <string name="igiari">igiari</string>
+    <string name="matta">matta</string>
+    <string name="kurae">kurae</string>
+    <string name="change">change</string>
+</resources>
